@@ -1,0 +1,17 @@
+[
+  {
+    "Username": "admin",
+    "PasswordHash": "3eb3fe66b31e3b4d10fa70b5cad49c7112294af6ae4e476a1c405155d45aa121",
+    "Role": "Admin"
+  },
+  {
+    "Username": "123",
+    "PasswordHash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "Role": "User"
+  },
+  {
+    "Username": "111",
+    "PasswordHash": "9046192edc052a0bacd8cc5da456e030ab2d4dae8e1883aac233bed8df54ef7c",
+    "Role": "User"
+  }
+]
